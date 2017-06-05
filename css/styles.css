@@ -1,0 +1,34 @@
+.jumbotron{
+  background-image: url('../images/landing.jpg');
+}
+.first{
+  height: 150px;
+}
+.breakfast{
+  background-image: url('../images/breakfast.jpg');
+  height: 150px;
+}
+.lunch{
+  background-image: url('../images/lunch.jpg');
+  height: 150px;
+}
+.dinner {
+  background-image: url('../images/dinner.jpg');
+  height: 150px;
+}
+.row{
+  margin-top: 25px;
+}
+#container{
+  background-image: url('../images/foodsBg.jpg');
+}
+#panel{
+  margin-left: 15px;
+}
+#row{
+  background-image: url('../images/subscribe.jpg');
+  height: 250px;
+}
+#lastrow{
+  background-color: red;
+}
